@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## Summary
 
-I am a Senior DevOps and Cloud Architect, specializing on Big Data and Machine Learning projects on GCP.
+I am a Senior DevOps Engineer and Cloud Architect, specializing on Big Data and Machine Learning projects on Google Cloud Platform (GCP).
 
-A 2x GCP Certified Professional (Cloud Architect and Data Engineer), I have been accumulating working experience on Google Cloud Platform since mid-2018.
+I have been accumulating working experience on Google Cloud Platform since mid-2018, allowing me to clear 4 GCP certifications so far: Cloud Engineer, Cloud Architect, Cloud Data Engineer and Cloud DevOps Engineer.
 
-Beyond general software engineering, DevOps and cloud architecture, I specialize in applying DevOps principles to data processing (DataOps) and data science project (MLOps). For example with Kubeflow, the open source Machine Learning toolkit for Kubernetes. Thanks to working hand in hand with Data Engineers and Data Scientists on a daily basis, I understand their expectations and the challenges they face.
+Beyond general software engineering, DevOps and cloud architecture, I specialize in applying DevOps principles to data processing pipelines (DataOps) and data science projects (MLOps). For example with Kubeflow, the open source Machine Learning toolkit for Kubernetes. Thanks to working hand in hand with Software Engineers, Data Engineers and Data Scientists on a daily basis, I understand their expectations and the challenges they face.
 
 ## Work Experience
 
@@ -31,7 +31,7 @@ Beyond general software engineering, DevOps and cloud architecture, I specialize
 
 *Jun 2020 – Present*
 
-I help our customers solve their biggest problems and transform their business using the best of Google. I also ensure our partners become the best pre-sales and delivery extension of our Google Cloud business.
+I help our customers solve their biggest problems and transform their business using the best of Google by ensuring our partners become the best pre-sales and delivery extension of our Google Cloud business.
 
 ### Cloud Architect | DevOps @ Groupe Renault
 
