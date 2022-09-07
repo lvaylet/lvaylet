@@ -27,11 +27,19 @@ Beyond general software engineering, DevOps and cloud architecture, I specialize
 
 ## Work Experience
 
+### Cloud Customer Engineer, Application Modernization and Site Reliability Engineering (SRE)
+
+*Jul 2022 - Present*
+
+Containers, serverless, Kubernetes, DevOps, CI/CD, GitOps, SRE...
+
 ### Cloud Partner Engineer @ Google
 
-*Jun 2020 – Present*
+*Jun 2020 – Jun 2022*
 
-I help our customers solve their biggest problems and transform their business using the best of Google by ensuring our partners become the best pre-sales and delivery extension of our Google Cloud business.
+In order to help our customers solve their biggest problems and transform their business using the best of Google, I ensure our partners become the best pre-sales and delivery extension of our Google Cloud business.
+
+On top of my daily responsibilities with our partner ecosystem, I contribute to driving awareness and adoption around Site Reliability Engineering (SRE). For example by co-leading The Art of SLOs workshops. Also by engaging with customers/partners who want to understand how Google mesures reliability and why we came up with SRE in the first place.
 
 ### Cloud Architect | DevOps @ Groupe Renault
 
