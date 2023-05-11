@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 ## Summary
 
-I am a Senior DevOps Engineer and Cloud Architect, specializing on Big Data and Machine Learning projects on Google Cloud Platform (GCP).
+I am a Senior Cloud Architect, specializing in DevOps and Site Reliability Engineering (SRE) on Google Cloud.
 
-I have been accumulating working experience on Google Cloud Platform since mid-2018, allowing me to clear 4 GCP certifications so far: Cloud Engineer, Cloud Architect, Cloud Data Engineer and Cloud DevOps Engineer.
+I have been accumulating working experience on Google Cloud since mid-2018. First as a customer at Renault, where I contributed to the rise and adoption of the cloud. I cleared 4 Google Cloud certifications in the process: Cloud Engineer, Cloud Architect, Cloud Data Engineer and Cloud DevOps Engineer.
 
-Beyond general software engineering, DevOps and cloud architecture, I specialize in applying DevOps principles to data processing pipelines (DataOps) and data science projects (MLOps). For example with Kubeflow, the open source Machine Learning toolkit for Kubernetes. Thanks to working hand in hand with Software Engineers, Data Engineers and Data Scientists on a daily basis, I understand their expectations and the challenges they face.
+Beyond general software engineering, data engineering, DevOps and cloud architecture, I specialize in Site Reliability Engineering. SRE was invented by Google in 2004 to address scaling and communication issues on business-critical workloads that require a balance between stability and innovation. Now you can learn from our 20-year experience too and apply the same principles to your workloads/teams. To learn more, reach out to me or browse our dedicated website at https://sre.google/
 
 ## Work Experience
 
-### Cloud Customer Engineer, Application Modernization and Site Reliability Engineering (SRE)
+### Cloud Customer Engineer, Application Modernization and Site Reliability Engineering (SRE) @ Google
 
 *Jul 2022 - Present*
 
